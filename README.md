@@ -34,6 +34,10 @@ A mobile application concept designed for managing a tailoring business.
 
 **Tools:** Figma, Android Studio, Kotlin
 
+### Complete UI Design
+
+![My Tailor Complete Design](My-Tailor/My-Tailor.png)
+
 ### Figma Prototype
 
 --[View My Tailoring App in Figma](https://www.figma.com/design/VtNqsBNoCiHGEic0qaKyFT/My-Tailor?node-id=0-1&t=z7aGxb0Pan8kYhqZ-1)
