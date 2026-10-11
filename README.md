@@ -37,6 +37,9 @@ A mobile application concept designed for managing a tailoring business.
 ### Complete UI Design
 
 ![My Tailor Complete Design](My-Tailor/My-Tailor.png)
+### Figma Prototype
+
+--[View My Tailoring App in Figma](https://www.figma.com/design/VtNqsBNoCiHGEic0qaKyFT/My-Tailor?node-id=23-2026&t=Md5A0Ag0MNFyUPgH-1)
 
 ### 2. CampusNotes App
 
