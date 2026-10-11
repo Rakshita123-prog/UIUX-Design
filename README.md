@@ -38,9 +38,29 @@ A mobile application concept designed for managing a tailoring business.
 
 ![My Tailor Complete Design](My-Tailor/My-Tailor.png)
 
+### 2. CampusNotes App
+
+A web application concept designed to help college students access and manage academic notes in one place.
+
+**Designed features:**
+
+* Student login
+* Semester selection
+* Branch and subject selection
+* Notes and study materials
+* Recently added notes
+* Organized academic resources
+
+**Tools:** Figma
+
+### Complete UI Design
+
+![CampusNotes Complete Design](CampusNotes/CampusNotes.png)
+
+
 ### Figma Prototype
 
---[View My Tailoring App in Figma](https://www.figma.com/design/VtNqsBNoCiHGEic0qaKyFT/My-Tailor?node-id=0-1&t=z7aGxb0Pan8kYhqZ-1)
+--[View My Tailoring App in Figma](https://www.figma.com/site/HsLP78sLRdnqSfPG3g0mQT/CampusNotes?node-id=0-1&t=4JCljUGWUWX6pq9d-1)
 
 
 ##  Connect With Me
