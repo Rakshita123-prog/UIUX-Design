@@ -63,7 +63,7 @@ A web application concept designed to help college students access and manage ac
 
 ### Figma Prototype
 
---[View My Tailoring App in Figma](https://www.figma.com/site/HsLP78sLRdnqSfPG3g0mQT/CampusNotes?node-id=0-1&t=4JCljUGWUWX6pq9d-1)
+--[View CampusNotes in Figma](https://www.figma.com/site/HsLP78sLRdnqSfPG3g0mQT/CampusNotes?node-id=0-1&t=4JCljUGWUWX6pq9d-1)
 
 
 ##  Connect With Me
